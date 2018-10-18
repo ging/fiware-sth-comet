@@ -6,6 +6,7 @@
 [![Docker badge](https://img.shields.io/docker/pulls/fiware/sth-comet.svg)](https://hub.docker.com/r/fiware/sth-comet/)
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/sth-comet.svg)](http://stackoverflow.com/questions/tagged/fiware-sth-comet) 
 [![Join the chat at https://gitter.im/telefonicaid/fiware-sth-comet](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/telefonicaid/fiware-sth-comet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+![Status](https://nexus.lab.fiware.org/repository/raw/public/static/badges/statuses/sth-comet.svg)
 
 * [Introduction](#introduction)
 * [Overall description](#overall-description)
