@@ -1,12 +1,12 @@
 # <a name="top"></a>FIWARE Short Time Historic (STH) - Comet
 
-[![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/core.svg)](https://www.fiware.org/developers/catalogue/)
+[![](https://nexus.lab.fiware.org/static/badges/chapters/core.svg)](https://www.fiware.org/developers/catalogue/)
 [![License](https://img.shields.io/github/license/ging/fiware-sth-comet.svg)](https://opensource.org/licenses/AGPL-3.0)
 [![Documentation badge](https://readthedocs.org/projects/fiware-sth-comet/badge/?version=latest)](http://fiware-sth-comet.rtfd.io)
 [![Docker badge](https://img.shields.io/docker/pulls/fiware/sth-comet.svg)](https://hub.docker.com/r/fiware/sth-comet/)
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/stackoverflow/sth-comet.svg)](http://stackoverflow.com/questions/tagged/fiware-sth-comet) 
 [![Join the chat at https://gitter.im/telefonicaid/fiware-sth-comet](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/telefonicaid/fiware-sth-comet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-![Status](https://nexus.lab.fiware.org/repository/raw/public/static/badges/statuses/sth-comet.svg)
+![Status](https://nexus.lab.fiware.org/static/badges/statuses/sth-comet.svg)
 
 * [Introduction](#introduction)
 * [Overall description](#overall-description)
